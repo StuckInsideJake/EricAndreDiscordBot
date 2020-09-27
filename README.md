@@ -1,0 +1,2 @@
+# EricAndreDiscordBot
+Eric andre quoteBot
