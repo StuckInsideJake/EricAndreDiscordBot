@@ -35,4 +35,4 @@
       });
 
 
-client.login('NzU5NjM0MjU5NTMwNDgxNzA1.X3AWiA.TrRxRJ95cqVBbesNn7VF7hJqIek');
+client.login('Token goes here');
