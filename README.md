@@ -6,7 +6,8 @@ Update as of 10/10/20:
 I have now added voice chat functionality to this bot. To use it simply use the commands 
 !musicalRanch or !intro.
 
-Dependencies: Nodejs, npm and Discord.js
+Dependencies: Nodejs, npm, Discord.js and node-opus
+
 
 To use this bot on your server, use this link: 
 https://discord.com/oauth2/authorize?client_id=759634259530481705&scope=bot
