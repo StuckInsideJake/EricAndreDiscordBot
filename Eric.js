@@ -2,7 +2,6 @@
   * @author Jake Stuck
   * 
   */
-
    // sets up the discord module
    const Discord = require('discord.js');
    const client = new Discord.Client();
@@ -28,7 +27,6 @@
     * array
     */
    var raLength = 0;
-
 
    /**
     * ranchList global variable
@@ -63,8 +61,7 @@
     
   // aquires the length for the two arrays
   rlLength = ranchList.length;
-  raLength = ranchAudio.length;                  
-
+  raLength = ranchAudio.length;
 
   /**
    * 
@@ -90,7 +87,6 @@
 
      });
 
-  
    client.on('message', message =>
      {
       let index = 0;
