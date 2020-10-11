@@ -1,5 +1,5 @@
 # EricAndreDiscordBot
-Eric Andre Discord bot
+
 The Eric Andre Discord bot is a simple Discord bot that posts quotes from the show and plays audio clips as well.
 
 Update as of 10/10/20:
